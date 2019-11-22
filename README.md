@@ -1,0 +1,1 @@
+# czas-na-wpierdol
