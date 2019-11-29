@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/czas-na-wpierdol/static/css/main.dfca195d.chunk.css",
+    "main.js": "/czas-na-wpierdol/static/js/main.9bede0f3.chunk.js",
+    "main.js.map": "/czas-na-wpierdol/static/js/main.9bede0f3.chunk.js.map",
+    "runtime-main.js": "/czas-na-wpierdol/static/js/runtime-main.361931b5.js",
+    "runtime-main.js.map": "/czas-na-wpierdol/static/js/runtime-main.361931b5.js.map",
+    "static/js/2.197c7aaf.chunk.js": "/czas-na-wpierdol/static/js/2.197c7aaf.chunk.js",
+    "static/js/2.197c7aaf.chunk.js.map": "/czas-na-wpierdol/static/js/2.197c7aaf.chunk.js.map",
+    "index.html": "/czas-na-wpierdol/index.html",
+    "precache-manifest.0a5e07db49ef3ea10b19cd49f4c33dd8.js": "/czas-na-wpierdol/precache-manifest.0a5e07db49ef3ea10b19cd49f4c33dd8.js",
+    "service-worker.js": "/czas-na-wpierdol/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/czas-na-wpierdol/static/css/main.dfca195d.chunk.css.map",
+    "static/media/czas-na-wpierdol-1.jpeg": "/czas-na-wpierdol/static/media/czas-na-wpierdol-1.fe7dec6d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.361931b5.js",
+    "static/js/2.197c7aaf.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.9bede0f3.chunk.js"
+  ]
+}
